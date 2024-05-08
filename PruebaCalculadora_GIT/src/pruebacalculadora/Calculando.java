@@ -16,7 +16,7 @@ public class Calculando {
     } 
     
     public double subtract(double number1, double number2){ 
-    return number1 - number2; 
+   return 0;
     } 
     
     public double multiply(double number1, double number2) { 
